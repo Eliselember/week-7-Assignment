@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.exe
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.deps.json
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.dll
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\bin\Debug\netcoreapp3.1\FullNameInitials.pdb
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.dll
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.pdb
+C:\Users\opilane\source\repos\logitpe21\WeekSevenAssignment\FullNameInitials\obj\Debug\netcoreapp3.1\FullNameInitials.genruntimeconfig.cache
