@@ -9,7 +9,17 @@ namespace FirstNameReverse
             Console.WriteLine("Sisesta eesnimi:");
             string firstname = Console.ReadLine();
 
-            while (i > 5)
+            if (firstname.Length >= 5)
+            {
+                for (int i = firstname.Length - 1; i >= 0; i--)
+                {
+                    Console.WriteLine($"{firstname[i]}");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"{firstname}");
+            }
         }
     }
 }

@@ -8,10 +8,10 @@ namespace RandomLetter
         {
             Console.WriteLine("Sisesta eesnimi:");
             string firstName = Console.ReadLine();
-            for (int i = firstName.Length - 1; i >= 0; i--)
-            {
-                Console.Write(firstName[i]);
-            }
+            Random rnd = new Random();
+
+            int taht = rnd.Next(0, firstName.Length - 1);
+            Console.WriteLine(firstName[taht]);
 
 
             
